@@ -6,10 +6,10 @@ This project focuses on implementing a High Availability Router network using GN
 
 Team Members and Roles
 
--Sumaiya Bibi F2024266340 (Network Architect)
--Rameen Junaid F2024266341 (Security Engineer)
--Eshmal Zahid F2024266755 (Automation Lead & Testing/QA Engineer)
--Tayyba Shahzad F2024266348 (Documentation Lead & Project Manager)
+- Sumaiya Bibi F2024266340 (Network Architect)
+- Rameen Junaid F2024266341 (Security Engineer)
+- Eshmal Zahid F2024266755 (Automation Lead & Testing/QA Engineer)
+- Tayyba Shahzad F2024266348 (Documentation Lead & Project Manager)
 
 Tools Used
 
