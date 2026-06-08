@@ -1,0 +1,13 @@
+Source: Kali Linux (192.168.1.100)
+
+Destination:
+Router (192.168.1.1)
+
+Traffic:
+ICMP Ping
+
+Action:
+Deny During Attack Testing.
+
+Purpose:
+To Demonstrate Traffic Filtering And Attack Mitigation Using ACL's._
